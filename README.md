@@ -12,7 +12,8 @@
   
 ### Hi there 👋
 
-💻 I'm a French IT Consultant, CEO [Origénial](https://www.origenial.fr), and I'm skilled and available to help you out with your IT strategy. Check my Linkedin too for more details.
+💻 I'm a French IT Consultant, CEO [Cloud Algebra](https://www.cloudalgebra.com), and I'm skilled and available to help you out with your IT Infrastructure's security, reliability and performance.
+Check my Linkedin too for more details.
 
 📖 I also hold a (admittedly inactive) [technical blog](https://lyderic.origenial.fr) and I like to contribute to Open Source projects.
 
